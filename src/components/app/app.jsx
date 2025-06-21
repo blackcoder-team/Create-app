@@ -1,4 +1,4 @@
-import { Nav } from "../navbar/nav";
+import Nav from "../navbar/nav";
 // import { Hero } from "../hero/hero";
 // import { Info } from "../info/info";
 // import { Works } from "../works/works";
