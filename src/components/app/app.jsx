@@ -13,10 +13,12 @@ import { Nav } from "../navbar/nav";
 
 import './app.css'
 
-const app = () => {
+const App = () => {
     return (
         <>
             <Nav />
         </>
     )
 }
+
+export default App
