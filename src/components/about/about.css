@@ -1,0 +1,34 @@
+.container_about {
+    margin: 80px 100px;
+}
+
+.main_box {
+    font-size: 20px;
+    line-height: 26px;
+}
+
+.about_all {
+    display: flex;
+    gap: 100px;
+    line-height: 24px;
+    font-size: 18px;
+}
+
+.about_all p {
+    color: rgb(108, 108, 108);
+}
+
+.about_all i {
+    color: rgb(108, 108, 108);
+}
+
+.about_all h3 {
+    color: rgb(108, 108, 108);
+}
+
+.about_mini_box {
+    display: flex;
+    line-height: 24px;
+    gap: 30px;
+    margin-top: 50px;
+}

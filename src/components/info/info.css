@@ -1,0 +1,14 @@
+.container_info {
+    margin: 100px 100px;
+}
+.info_div {
+    display: flex;
+    gap: 80px;
+    line-height: 25px;
+}
+.info_divs_title {
+    color: #32dbc6;
+}
+.info_divs_p {
+    font-size: 18px;
+}

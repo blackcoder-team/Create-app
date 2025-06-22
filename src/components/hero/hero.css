@@ -1,0 +1,36 @@
+.hero {
+    background-image: url(./hero_1.jpg.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    opacity: 1;
+    height: 700px;
+}
+
+.hero_text {
+    text-align: center;
+    padding-top: 280px;
+    color: rgb(255, 255, 255);
+}
+
+.hero_text_title {
+    font-size: 45px;
+}
+
+.hero_text_p {
+    font-size: 20px;
+}
+
+.hero_text_btn {
+    padding: 15px 30px;
+    border: none;
+    border-radius: 30px;
+    background-color: #32dbc6;
+    color: black;
+    transition: all .25s;
+}
+
+.hero_text_btn:hover {
+    background-color: #1dbba8;
+    color: white;
+}

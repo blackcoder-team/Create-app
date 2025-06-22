@@ -1,0 +1,75 @@
+.container_contact {
+    margin: 50px 100px;
+}
+
+.name_inputs {
+    display: flex;
+    gap: 30px;
+}
+.name_inputs .input {
+    padding: 10px;
+    border-radius: 30px;
+    border: 1px solid rgb(150, 150, 150);
+    background-color: rgba(240, 248, 255, 0);
+    width: 250px;
+}
+
+.other_inputs {
+    margin-top: 10px;
+}
+.other_inputs .input {
+    padding: 10px;
+    border-radius: 30px;
+    border: 1px solid rgb(150, 150, 150);
+    background-color: rgba(240, 248, 255, 0);
+    width: 100%;
+}
+.other_inputs .text_area {
+    height: 160px;
+}
+
+.get_info {
+    background-color: white;
+    padding: 50px;
+    height: 0%;
+}
+
+.contact_info {
+    display: flex;
+    gap: 30px;
+}
+
+.email_contact {
+    background-color: white;
+    padding: 40px 20px;
+    height: 0%;
+}
+
+.get_info .contact_btn {
+    padding: 10px 30px;
+    color: white;
+    border: none;
+    border-radius: 30px;
+    background-color: #32dbc6;
+    margin-top: 10px;
+    transition: .25s;
+}
+.get_info .contact_btn:hover {
+    background-color: #1dbba8;
+}
+
+.get_info .form_title {
+    font-size: 24px;
+    margin-bottom: 30px;
+}
+
+.contact_title {
+    font-size: 50px;
+    text-align: center;
+    margin-bottom: 80px;
+}
+
+.special_text {
+    color: #32dbc6;
+}
+
