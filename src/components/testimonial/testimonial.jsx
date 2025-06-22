@@ -1,8 +1,14 @@
 import './testimonial.css'
+import TestimonialCarousel from "./testimonial-carousel/testimonial-carousel";
 
-const Testimonial = () => {
+const Testimonial = ({ testimonial }) => {
+
   return (
-    <div>Testimonial</div>
+    <div id='testimonials'>
+      <div className="container">
+        <TestimonialCarousel testimonials={testimonial} />
+      </div>
+    </div>
   )
 }
 
