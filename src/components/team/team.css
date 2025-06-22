@@ -1,0 +1,27 @@
+.container_team {
+    margin: 80px 100px;
+    text-align: center;
+}
+.team_title {
+    font-size: 50px;
+    padding-bottom: 20px;
+}
+.all_person_box {
+    display: flex;
+    gap: 50px;
+}
+#all_person_box_i {
+    padding: 10px;
+    background-color: rgb(107, 107, 107);
+    border-radius: 50%;
+    color: white;
+    margin: 5px;
+    font-size: 14px;
+    transition: all .5s;
+}
+#all_person_box_i:hover {
+    background-color: black;
+}
+.person_info_box {
+    line-height: 26px;
+}
