@@ -4,8 +4,8 @@ import Rooster from './roostertom.webp';
 
 const Team = () => {
   return (
-    <div style={{ borderBottom: '1px solid rgb(206, 206, 206)' }}>
-      <div className='container_team'>
+    <div id='team'>
+      <div className='container'>
         <p className='team_title'>Our team</p>
         <div className='all_person_box'>
           <div className='person_info_box'>

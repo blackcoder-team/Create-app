@@ -3,14 +3,21 @@
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+    background-attachment: fixed;
     opacity: 1;
     height: 700px;
+}
+
+#hero {
+    padding-top: 104px;
 }
 
 .hero_text {
     text-align: center;
     padding-top: 280px;
     color: rgb(255, 255, 255);
+    background-color: rgba(0, 0, 0, 0.466);
+    height: 100%;
 }
 
 .hero_text_title {

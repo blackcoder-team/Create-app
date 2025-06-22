@@ -2,8 +2,8 @@ import './contact.css'
 
 const Contact = () => {
   return (
-    <div style={{ padding: '20px 0px', backgroundColor: 'rgb(245, 248, 249)' }}>
-      <div className='container_contact'>
+    <div id='contact'>
+      <div className='container'>
         <p className='contact_title'>Contact Us</p>
         <div className='contact_info'>
           <div className='get_info'>

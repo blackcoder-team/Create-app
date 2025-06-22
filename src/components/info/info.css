@@ -1,6 +1,21 @@
-.container_info {
-    margin: 100px 100px;
+#info {
+    padding: 80px 0 160px;
 }
+
+#info h2 {
+    position: absolute;
+    display: inline-block;
+    color: #f2f4f5;
+    z-index: -5;
+    font-size: 130px;
+    margin-top: -60px;
+}
+
+#info .id1 {left: 70px;}
+#info .id2 {left: 470px;}
+#info .id3 {left: 870px;}
+
+
 .info_div {
     display: flex;
     gap: 80px;

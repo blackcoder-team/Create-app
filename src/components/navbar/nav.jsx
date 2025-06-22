@@ -5,7 +5,7 @@ const Nav = () => {
   window.addEventListener('scroll', () => {
     const navbar = document.getElementById('nav');
     if (navbar) {
-      if (window.scrollY > 150) {
+      if (window.scrollY > 200) {
         navbar.classList.add('sticky');
       } else {
         navbar.classList.remove('sticky');
@@ -14,7 +14,7 @@ const Nav = () => {
   });
 
   return (
-    <div id='nav'>
+    <div id='nav' className='absolute'>
       <div className="container">
         <div className="row pt-4 pb-4 d-flex justify-content-between">
           <div className="logo d-inline-block w-auto">

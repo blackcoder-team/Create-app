@@ -1,6 +1,10 @@
-.container_team {
-    margin: 80px 100px;
+#team .container {
     text-align: center;
+}
+
+#team {
+    padding: 80px 0 120px;
+    border-bottom: 1px solid rgb(206, 206, 206);
 }
 .team_title {
     font-size: 50px;

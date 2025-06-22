@@ -2,10 +2,16 @@
     color: #32dbc6;
 }
 
+.absolute {
+    width: 100%;
+    position: absolute;
+}
+
 .sticky {
     position: fixed;
     background-color: #fff;
     animation: slideDown 0.3s linear;
+    transition: 0.5s ease;
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
     z-index: 999;
     width: 100%;

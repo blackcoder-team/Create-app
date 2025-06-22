@@ -1,5 +1,5 @@
-.container_blog {
-    margin: 100px;
+#blog {
+    padding: 80px 0;
 }
 .blog_title {
     font-size: 40px;
@@ -11,5 +11,9 @@
 }
 .all_box_blog {
     display: flex;
-    gap: 45px;
+    justify-content: space-between;
+}
+
+.all_box_blog img {
+    margin: 0 0 30px ;
 }
