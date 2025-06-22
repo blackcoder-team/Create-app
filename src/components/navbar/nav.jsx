@@ -1,6 +1,18 @@
 import './nav.css'
 
 const Nav = () => {
+
+  window.addEventListener('scroll', () => {
+    const navbar = document.getElementById('nav');
+    if (navbar) {
+      if (window.scrollY > 150) {
+        navbar.classList.add('sticky');
+      } else {
+        navbar.classList.remove('sticky');
+      }
+    }
+  });
+
   return (
     <div id='nav'>
       <div className="container">
