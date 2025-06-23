@@ -8,7 +8,7 @@ const Service = () => {
                 <div className='service_big_box'>
                     <div className='service_box'>
                         <div>
-                            <i class="fa-solid fa-laptop fa-2x"></i>
+                            <i className="fa-solid fa-laptop fa-2x"></i>
                         </div>
                         <div>
                             <h5>Web Design</h5>
@@ -18,7 +18,7 @@ const Service = () => {
                     </div>
                     <div className='service_box'>
                         <div>
-                            <i class="fa-solid fa-cart-shopping"></i>
+                            <i className="fa-solid fa-cart-shopping"></i>
                         </div>
                         <div>
                             <h5>eCommerce</h5>
@@ -28,7 +28,7 @@ const Service = () => {
                     </div>
                     <div className='service_box'>
                         <div>
-                            <i class="fa-solid fa-laptop-code"></i>
+                            <i className="fa-solid fa-laptop-code"></i>
                         </div>
                         <div>
                             <h5>Web Applications</h5>
@@ -40,7 +40,7 @@ const Service = () => {
                 <div className='service_big_box'>
                     <div className='service_box'>
                         <div>
-                            <i class="fa-solid fa-paint-roller"></i>
+                            <i className="fa-solid fa-paint-roller"></i>
                         </div>
                         <div>
                             <h5>Branding</h5>
@@ -50,7 +50,7 @@ const Service = () => {
                     </div>
                     <div className='service_box'>
                         <div>
-                            <i class="fa-solid fa-copy"></i>
+                            <i className="fa-solid fa-copy"></i>
                         </div>
                         <div>
                             <h5>Copy Writing</h5>
@@ -60,7 +60,7 @@ const Service = () => {
                     </div>
                     <div className='service_box'>
                         <div>
-                            <i class="fa-solid fa-mobile-screen"></i>
+                            <i className="fa-solid fa-mobile-screen"></i>
                         </div>
                         <div>
                             <h5>Mobile Applications</h5>

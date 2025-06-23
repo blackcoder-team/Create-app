@@ -19,10 +19,10 @@ const Team = () => {
                 tempore suscipit inventore deserunt tenetur.
               </p>
               <div>
-                <i id='all_person_box_i' class="fa-brands fa-facebook"></i>
-                <i id='all_person_box_i' class="fa-brands fa-twitter"></i>
-                <i id='all_person_box_i' class="fa-brands fa-invision"></i>
-                <i id='all_person_box_i' class="fa-brands fa-instagram"></i>                
+                <i id='all_person_box_i' className="fa-brands fa-facebook"></i>
+                <i id='all_person_box_i' className="fa-brands fa-twitter"></i>
+                <i id='all_person_box_i' className="fa-brands fa-invision"></i>
+                <i id='all_person_box_i' className="fa-brands fa-instagram"></i>                
               </div>
             </div>
           </div>
@@ -37,10 +37,10 @@ const Team = () => {
                 tempore suscipit inventore deserunt tenetur.
               </p>
               <div>
-                <i id='all_person_box_i' class="fa-brands fa-facebook"></i>
-                <i id='all_person_box_i' class="fa-brands fa-twitter"></i>
-                <i id='all_person_box_i' class="fa-brands fa-invision"></i>
-                <i id='all_person_box_i' class="fa-brands fa-instagram"></i>
+                <i id='all_person_box_i' className="fa-brands fa-facebook"></i>
+                <i id='all_person_box_i' className="fa-brands fa-twitter"></i>
+                <i id='all_person_box_i' className="fa-brands fa-invision"></i>
+                <i id='all_person_box_i' className="fa-brands fa-instagram"></i>
               </div>
             </div>
           </div>
@@ -55,10 +55,10 @@ const Team = () => {
                 tempore suscipit inventore deserunt tenetur.
               </p>
               <div>
-                <i id='all_person_box_i' class="fa-brands fa-facebook"></i>
-                <i id='all_person_box_i' class="fa-brands fa-twitter"></i>
-                <i id='all_person_box_i' class="fa-brands fa-invision"></i>
-                <i id='all_person_box_i' class="fa-brands fa-instagram"></i>
+                <i id='all_person_box_i' className="fa-brands fa-facebook"></i>
+                <i id='all_person_box_i' className="fa-brands fa-twitter"></i>
+                <i id='all_person_box_i' className="fa-brands fa-invision"></i>
+                <i id='all_person_box_i' className="fa-brands fa-instagram"></i>
               </div>
             </div>
           </div>

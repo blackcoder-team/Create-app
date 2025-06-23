@@ -22,10 +22,10 @@ const Footer = () => {
             <div className="col-3">
               <h1>Follow Us</h1>
               <div className='d-flex justify-content-between icons'>
-                <a href=""><i class="fa-brands fa-facebook-f"></i></a>
-                <a href=""><i class="fa-brands fa-twitter"></i></a>
-                <a href=""><i class="fa-brands fa-instagram"></i></a>
-                <a href=""><i class="fa-brands fa-linkedin-in"></i></a>
+                <a href=""><i className="fa-brands fa-facebook-f"></i></a>
+                <a href=""><i className="fa-brands fa-twitter"></i></a>
+                <a href=""><i className="fa-brands fa-instagram"></i></a>
+                <a href=""><i className="fa-brands fa-linkedin-in"></i></a>
               </div>
             </div>
           </div>
