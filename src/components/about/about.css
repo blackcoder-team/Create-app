@@ -6,6 +6,10 @@
     font-size: 20px;
     line-height: 26px;
 }
+.main_box h1 {
+    color: black;
+    font-size: 48px;
+}
 
 .about_all {
     display: flex;
@@ -22,13 +26,13 @@
     color: rgb(108, 108, 108);
 }
 
-.about_all h3 {
+.about_all h5 {
     color: rgb(108, 108, 108);
+    margin-top: 15px;
 }
 
 .about_mini_box {
     display: flex;
     line-height: 24px;
-    gap: 30px;
     margin-top: 50px;
 }

@@ -25,5 +25,9 @@
     color: #32dbc6;
 }
 .info_divs_p {
-    font-size: 18px;
+    font-size: 16px;
+}
+.info_divs_p i {
+    color: #32dbc6;
+    padding-right: 10px;
 }

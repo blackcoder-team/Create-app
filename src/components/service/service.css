@@ -14,16 +14,18 @@
     line-height: 24px;
 }
 .service_box i {
-    margin-top: 22px;
+    margin-top: 5px;
     color: #32dbc6;
     font-size: 34px;
 }
 .service_big_box {
     display: flex;
-    gap: 50px;
+    gap: 80px;
 }
 .service_title {
-    font-size: 50px;
+    font-size: 48px;
+    font-weight: 500;
+    margin-bottom: 50px;
 }
 .service_learn_p {
     color: #32dbc6;

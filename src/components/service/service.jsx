@@ -11,7 +11,7 @@ const Service = () => {
                             <i class="fa-solid fa-laptop fa-2x"></i>
                         </div>
                         <div>
-                            <h2>Web Design</h2>
+                            <h5>Web Design</h5>
                             <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aut, autem? Asperiores quasi explicabo mollitia id.</p>
                             <p className='service_learn_p'>Learn more</p>
                         </div>
@@ -21,7 +21,7 @@ const Service = () => {
                             <i class="fa-solid fa-cart-shopping"></i>
                         </div>
                         <div>
-                            <h2>eCommerce</h2>
+                            <h5>eCommerce</h5>
                             <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aut, autem? Asperiores quasi explicabo mollitia id.</p>
                             <p className='service_learn_p'>Learn more</p>
                         </div>
@@ -31,7 +31,7 @@ const Service = () => {
                             <i class="fa-solid fa-laptop-code"></i>
                         </div>
                         <div>
-                            <h2>Web Applications</h2>
+                            <h5>Web Applications</h5>
                             <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aut, autem? Asperiores quasi explicabo mollitia id.</p>
                             <p className='service_learn_p'>Learn more</p>
                         </div>
@@ -43,7 +43,7 @@ const Service = () => {
                             <i class="fa-solid fa-paint-roller"></i>
                         </div>
                         <div>
-                            <h2>Branding</h2>
+                            <h5>Branding</h5>
                             <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aut, autem? Asperiores quasi explicabo mollitia id.</p>
                             <p className='service_learn_p'>Learn more</p>
                         </div>
@@ -53,7 +53,7 @@ const Service = () => {
                             <i class="fa-solid fa-copy"></i>
                         </div>
                         <div>
-                            <h2>Copy Writing</h2>
+                            <h5>Copy Writing</h5>
                             <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aut, autem? Asperiores quasi explicabo mollitia id.</p>
                             <p className='service_learn_p'>Learn more</p>
                         </div>
@@ -63,7 +63,7 @@ const Service = () => {
                             <i class="fa-solid fa-mobile-screen"></i>
                         </div>
                         <div>
-                            <h2>Mobile Applications</h2>
+                            <h5>Mobile Applications</h5>
                             <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aut, autem? Asperiores quasi explicabo mollitia id.</p>
                             <p className='service_learn_p'>Learn more</p>
                         </div>

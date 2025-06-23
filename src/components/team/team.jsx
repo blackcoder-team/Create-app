@@ -1,5 +1,5 @@
 import './team.css'
-import Rooster from './roostertom.webp';
+
 
 
 const Team = () => {
@@ -10,7 +10,7 @@ const Team = () => {
         <div className='all_person_box'>
           <div className='person_info_box'>
             <div>
-              <img src={Rooster} alt="" style={{ height: '180px', width: '180px', borderRadius: '50%' }} />
+              <img src={'https://preview.colorlib.com/theme/create/images/person_2.jpg.webp'} />
               <h3>John Rooster</h3>
               <p>Co-Founder, President</p>
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
@@ -19,46 +19,46 @@ const Team = () => {
                 tempore suscipit inventore deserunt tenetur.
               </p>
               <div>
-                <i id='all_person_box_i' class="fa-brands fa-instagram"></i>
                 <i id='all_person_box_i' class="fa-brands fa-facebook"></i>
                 <i id='all_person_box_i' class="fa-brands fa-twitter"></i>
                 <i id='all_person_box_i' class="fa-brands fa-invision"></i>
+                <i id='all_person_box_i' class="fa-brands fa-instagram"></i>                
               </div>
             </div>
           </div>
           <div className='person_info_box'>
             <div>
-              <img src={Rooster} alt="" style={{ height: '180px', width: '180px', borderRadius: '50%' }} />
-              <h3>John Rooster</h3>
-              <p>Co-Founder, President</p>
+              <img src={'https://preview.colorlib.com/theme/create/images/person_3.jpg.webp'} />
+              <h3>Tom Sharp</h3>
+              <p>Co-Founder, COO</p>
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
                 Nisi at consequatur unde molestiae quidem provident voluptatum
                 deleniti quo iste error eos est praesentium distinctio cupiditate
                 tempore suscipit inventore deserunt tenetur.
               </p>
               <div>
-                <i id='all_person_box_i' class="fa-brands fa-instagram"></i>
                 <i id='all_person_box_i' class="fa-brands fa-facebook"></i>
                 <i id='all_person_box_i' class="fa-brands fa-twitter"></i>
                 <i id='all_person_box_i' class="fa-brands fa-invision"></i>
+                <i id='all_person_box_i' class="fa-brands fa-instagram"></i>
               </div>
             </div>
           </div>
           <div className='person_info_box'>
             <div>
-              <img src={Rooster} alt="" style={{ height: '180px', width: '180px', borderRadius: '50%' }} />
-              <h3>John Rooster</h3>
-              <p>Co-Founder, President</p>
+              <img src={'https://preview.colorlib.com/theme/create/images/person_4.jpg.webp'} />
+              <h3>Winston Hodson</h3>
+              <p>Marketing</p>
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
                 Nisi at consequatur unde molestiae quidem provident voluptatum
                 deleniti quo iste error eos est praesentium distinctio cupiditate
                 tempore suscipit inventore deserunt tenetur.
               </p>
               <div>
-                <i id='all_person_box_i' class="fa-brands fa-instagram"></i>
                 <i id='all_person_box_i' class="fa-brands fa-facebook"></i>
                 <i id='all_person_box_i' class="fa-brands fa-twitter"></i>
                 <i id='all_person_box_i' class="fa-brands fa-invision"></i>
+                <i id='all_person_box_i' class="fa-brands fa-instagram"></i>
               </div>
             </div>
           </div>
